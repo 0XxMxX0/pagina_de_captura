@@ -1,0 +1,116 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #1e1f21;
+    width: 100vw;
+} 
+
+*/
+/* .container {
+    max-width: 1000px;
+    margin: auto;
+    background-color: red;
+    padding: 10px;
+} */
+header {
+    background-color: #48C5CE;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    box-sizing: border-box;
+}
+.title {
+    font-size: 26px;
+}
+
+section {
+    padding: 20px;
+    box-sizing: border-box;
+    background-image: url("../images/people.jpg");
+    background-size: cover;
+    overflow: hidden;
+}
+.formContainer {
+    background-color: #FFFFFFBB;
+    padding: 20px;
+    max-width: 500px;
+    float: right;
+}
+h2 {
+    font-size: 16px;
+}
+.mb {
+    margin-bottom: 25px;
+}
+input, select {
+    width: 100%;
+    /* box-sizing: border-box; */
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    color: #fff;
+    background: #48C5CE;
+    font-weight: bold;
+}
+
+select{
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("../images/arrow.jpg");
+    background-repeat: no-repeat;
+    /* background-position-x: calc(100% - 10px);
+    background-position-y: center ; */
+    background-position: calc(100% - 10px) center;
+}
+
+footer {
+    box-sizing: border-box;
+    padding: 40px;
+    background-color: #202121;
+    text-align: center;
+}
+.picture {
+    width: 160px;
+    background-color: red;
+    padding: 10px;
+}
+.description{
+    display: inline-block;
+    color: #fff;
+    box-sizing: border-box;
+    max-width: 40%;
+    margin-left: 40px;
+    text-align: left;
+}
+.description p, .description h3 {
+    margin-bottom: 20px;
+}
+.description h3 {
+    font-size: 24px;
+}
+
+/* 
+@media screen and (max-width: 700px){
+    .title {
+        font-size: 20px;
+    }
+
+    section {
+        padding: 20px;
+        background-image: url("../images/people.jpg");
+        background-size: cover;
+        overflow: hidden;
+    }
+    .formContainer {
+        max-width: 100%;
+        padding: 20px;
+        float: none;
+        margin: auto;
+    }
+} */
