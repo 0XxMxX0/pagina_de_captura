@@ -6,4 +6,5 @@ Mas serviu para testar minhas habilidades no front e ainda aprendir a vincular f
 Esse projeto é totalmente baseado em HTML|CSS e tem muuuuito a melhorar. Fique ligado para atualizações futura ;)<br>
 <br>
 Quer ver o site:
-Link... <a href="https://0xxmxx0.github.io/pagina_de_captura/">Pagina de Captura</a>
+<br>
+<a href="https://0xxmxx0.github.io/pagina_de_captura/">Pagina de Captura</a>
